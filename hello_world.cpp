@@ -7,5 +7,4 @@ int main()
 	string name;
 	cin >> name;
 	cout << "hello, world" << name << "!" << endl;
-
 }
