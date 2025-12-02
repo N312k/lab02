@@ -15,4 +15,8 @@ main()
 	cin >> name;
 	cout << "hello, world" << name << "!" << endl;
 }
+<<<<<<< HEAD
 >>>>>>> ddce129 (Apply clang-format with Mozilla code style)
+=======
+>>>>>>> d4e641d (Apply clang-format with Mozilla code style)
+>>>>>>> faa614d (rrr)
